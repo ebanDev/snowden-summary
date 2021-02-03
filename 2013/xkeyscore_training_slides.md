@@ -8,7 +8,7 @@ Dans le document [20130731-theguardian__xkeyscore_training_slides.pdf](https://g
 * Ce service dispose de 500 serveurs tout autour du monde !
 * Il a un fonctionnement décrit à la page 5 du document tel que, dès qu'un utilisateur fait une requête, elle est transférée sur les serveurs de **XKEYSCORE** qui transfère ces données vers d'autres serveurs de stockage des données de la NSA comme __F6 HQS__, __FORNSAT__ ou __SSO__.
 * On voit à la page 11 un schéma représentant le fonctionnement de **XKEYSCORE**, à chaque action de l'utilisateur, sa requête est analysée pour comprendre quelles informations peuvent en être extraites (connexion, adresse mail, numéros de téléphone, etc.) puis renvoyées aux bases de données de **XKEYSCORE**, cela est, bien sûr, transparent pour l'utilisateur final.
-* On apprend aussi que le fait d'utiliser des messageries cryptées comme Signal est considéré comme suspect par la NSA...
+* On apprend aussi que le fait d'utiliser des messageries chiffrés comme Signal est considéré comme suspect par la NSA...
 * On apprend que l'on peut effectuer des requêtes du type "Montre-moi toutes les personnes qui utilisent un VPN dans le pays X et décrypte-les"
 * **XKEYSCORE** garde par exemple en mémoire toutes les données Google Maps des utilisateurs de sorte à pouvoir retracer leurs déplacements.
 * On apprend que **XKEYSCORE** peut avoir accès à n'importe quel document Excel de n'importe quel machine et peut faire des recherches dedans.
