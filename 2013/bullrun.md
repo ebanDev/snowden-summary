@@ -6,7 +6,7 @@ Dans le document [20130905-theguardian__bullrun.pdf](https://git.chevro.fr/Eban/
 
 La NSA a un projet nommée Projet Bullrun qui a pour but de pour déchiffrer n'importe quelle communication qui le serait. Pour cela, ils s'appuient sur des "calculs mathématiques avancés", des relations dans l'industrie et "interdictions". <br>
 
-La NSA est donc en mesure de déchiffrer n'importe que traffic passant par les protocoles/services suivants :
+La NSA est affirme donc en mesure de déchiffrer le traffic passant par les protocoles/services suivants :
 - TLS/SSL
 - HTTPS
 - SSH
