@@ -31,8 +31,7 @@ Fournissent les informations suivantes aux services secrets américains :
 
 - Les notifications d'activité sur les comptes (Connexion)
 
-- Requêtes spéciales (on ne sait pas ce que c'est...)
-
+- "Requêtes spéciales"
 	
 
 # English version 🇺🇸
